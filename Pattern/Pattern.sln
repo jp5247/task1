@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern", "Pattern\Pattern.csproj", "{D4F39AC4-3616-4207-8288-1F6E9B6DB1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{D44ADA4B-4D25-4072-93C2-A28139A044C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBoard", "ChessBoard\ChessBoard.csproj", "{750D11D0-AB2D-46D5-8DA3-FFAD4DC51FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F39AC4-3616-4207-8288-1F6E9B6DB1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F39AC4-3616-4207-8288-1F6E9B6DB1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F39AC4-3616-4207-8288-1F6E9B6DB1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F39AC4-3616-4207-8288-1F6E9B6DB1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44ADA4B-4D25-4072-93C2-A28139A044C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44ADA4B-4D25-4072-93C2-A28139A044C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44ADA4B-4D25-4072-93C2-A28139A044C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44ADA4B-4D25-4072-93C2-A28139A044C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750D11D0-AB2D-46D5-8DA3-FFAD4DC51FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750D11D0-AB2D-46D5-8DA3-FFAD4DC51FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750D11D0-AB2D-46D5-8DA3-FFAD4DC51FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750D11D0-AB2D-46D5-8DA3-FFAD4DC51FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A32E7FA-63DF-4504-9D53-2CA1477DB253}
+	EndGlobalSection
+EndGlobal

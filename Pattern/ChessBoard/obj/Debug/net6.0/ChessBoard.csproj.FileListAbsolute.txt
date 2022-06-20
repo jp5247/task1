@@ -1,0 +1,15 @@
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\bin\Debug\net6.0\ChessBoard.exe
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\bin\Debug\net6.0\ChessBoard.deps.json
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\bin\Debug\net6.0\ChessBoard.runtimeconfig.json
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\bin\Debug\net6.0\ChessBoard.dll
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\bin\Debug\net6.0\ChessBoard.pdb
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\obj\Debug\net6.0\ChessBoard.csproj.AssemblyReference.cache
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\obj\Debug\net6.0\ChessBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\obj\Debug\net6.0\ChessBoard.AssemblyInfoInputs.cache
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\obj\Debug\net6.0\ChessBoard.AssemblyInfo.cs
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\obj\Debug\net6.0\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\obj\Debug\net6.0\ChessBoard.dll
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\obj\Debug\net6.0\refint\ChessBoard.dll
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\obj\Debug\net6.0\ChessBoard.pdb
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\obj\Debug\net6.0\ChessBoard.genruntimeconfig.cache
+C:\Users\JPAREKH\source\Learn\Task 1\Pattern\ChessBoard\obj\Debug\net6.0\ref\ChessBoard.dll
